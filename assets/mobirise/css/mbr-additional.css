@@ -1339,7 +1339,7 @@ a {
 .cid-uXORRgKMye {
   padding-top: 9rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/bg-vacio.png");
+  background-image: url("../../../assets/images/bg-vacio.webp");
 }
 .cid-uXORRgKMye .mbr-fallback-image.disabled {
   display: none;
@@ -1782,11 +1782,13 @@ a {
 }
 .cid-uXOT2Xq3QO {
   display: flex;
-  background-image: url("../../../assets/images/08.-notebook-ib-1.jpeg");
+  padding-top: 20rem;
+  padding-bottom: 12rem;
+  background-image: url("../../../assets/images/08.-notebook-ib-1.webp");
 }
 .cid-uXOT2Xq3QO .mbr-overlay {
   background-color: #000000;
-  opacity: 0.5;
+  opacity: 0;
 }
 @media (min-width: 768px) {
   .cid-uXOT2Xq3QO {
